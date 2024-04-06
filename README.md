@@ -2,8 +2,7 @@
 - 👀 I’m interested in Deep Learning, Computer Vision 
 - 🌱 I’m currently learning MLOps, Kubernetes, Cloud plateforms
 - 💞️ I’m looking to collaborate on MLOps Learnings
-- 📫 How to reach me mail: dhruv12kothiya@gmail.com, telegram: @kd1903
-
+- 📫 How to reach me mail: dhruv12kothiya@gmail.com, telegram: @kd1903 
 - Check out my portfolio [here](https://kd1903.github.io)
 
 <!---
